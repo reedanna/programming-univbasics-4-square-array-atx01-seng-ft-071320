@@ -1,3 +1,6 @@
 def square_array(array)
-  # your code here
+  squares = []
+  array.length.times do |counter|
+    squares.push()
+  end
 end
